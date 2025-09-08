@@ -7,4 +7,4 @@ Daniel Perrotta
 Nicholas Marijon
 
 Made for Vanier Computer Science and Technology
-Under Mohand Chebine and Antoine McNabb-Baltar, Game Programming 1
+under Mohand Chebine and Antoine McNabb-Baltar, Game Programming 1
