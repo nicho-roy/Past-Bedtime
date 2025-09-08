@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=PonchoGunSlingers1
+comment0.text=\r\n\ \r\n
+comment1.params=
+comment1.target=PonchoGunSlingers1()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PonchoGunSlingers1.\r\n
+comment2.params=
+comment2.target=void\ started()
+comment2.text=public\ boolean\ isInScene1()\ {\r\n\ \ \ \ \ \ \ \ return\ isInScene1;\r\n\ \ \ \ }\r\n\r\n\ \ \ \ public\ void\ goToScene2()\ {\r\n\ \ \ \ \ \ \ \ setBackground("Scene\ 2.png");\r\n\ \ \ \ \ \ \ \ isInScene1\ \=\ false;\r\n}
+comment3.params=
+comment3.target=void\ stopped()
+comment4.params=
+comment4.target=void\ act()
+comment5.params=
+comment5.target=double\ getTimeStepDuration()
+comment6.params=
+comment6.target=void\ prepare()
+comment6.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\r\n\ That\ is\:\ create\ the\ initial\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=7

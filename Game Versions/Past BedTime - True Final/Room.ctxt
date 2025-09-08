@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Room
+comment0.text=\r\n\ \r\n
+comment1.params=width\ height\ cells\ roomID\ playerObj\ door\ entityObj
+comment1.target=Room(int,\ int,\ int,\ int,\ Player,\ Door,\ Entity)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Room.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ bgMusic()
+comment4.params=
+comment4.target=void\ chaseMusic()
+numComments=5

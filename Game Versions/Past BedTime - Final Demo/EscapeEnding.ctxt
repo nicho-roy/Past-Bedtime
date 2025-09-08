@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=EscapeEnding
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ending1\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=EscapeEnding()
+comment1.text=\ public\ Ending1(Player\ playerObj,\ Door\ door,\ Entity\ entity)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ super(512,\ 512,\ 1,\ playerObj,\ door,\ entity);\r\n}
+comment2.params=
+comment2.target=void\ act()
+numComments=3

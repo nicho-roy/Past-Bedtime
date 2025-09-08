@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Hallway2
+comment0.text=\r\n\ \r\n
+comment1.params=playerObj\ door\ entity
+comment1.target=Hallway2(Player,\ Door,\ Entity)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Hallway2.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ chasing()
+comment4.params=
+comment4.target=void\ furniture()
+comment5.params=
+comment5.target=void\ prepare()
+comment6.params=
+comment6.target=void\ lightning()
+numComments=7
