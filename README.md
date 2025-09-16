@@ -1,5 +1,5 @@
 # Past-Bedtime
-A puzzle/horror Greenfoot game I built with some friends in 2023.
+A puzzle/horror Java game I built with some friends in 2023 using Greenfoot.
 
 Creators:
 Nicholas Roy,
